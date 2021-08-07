@@ -1,7 +1,6 @@
 {
   "name": "codecamp",
   "version": "1.0.0",
-  "author": "Mohammed Alhashim",
   "description": "challenge",
   "main": "index.js",
   "scripts": {
@@ -15,5 +14,9 @@
     "challenge",
     "test"
   ],
-  "license": "ISC"
+  "author": "Mohammed Alhashim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
